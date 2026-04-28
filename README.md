@@ -5,7 +5,7 @@ This repository hosts the privacy policy for the Ulfat Course Management App.
 ## Access the Privacy Policy
 
 The privacy policy is available at:
-[https://Mustafaamirzada.github.io/ulfat-privacy-policy/](https://Mustafaamirzada.github.io/ulfat-privacy-policy/)
+[https://mustafaamirzada.github.io/privacy-policy/](https://mustafaamirzada.github.io/privacy-policy/)
 
 ## App Information
 
